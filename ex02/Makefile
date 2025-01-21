@@ -1,4 +1,4 @@
-SOURCES = app.ml
+SOURCES = arithmetic.ml
 
 RESULT  = a.out
 OCAMLMAKEFILE := ../OCamlMakefile
